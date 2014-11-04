@@ -87,10 +87,11 @@ def main():
     if command == "get":
         name = get(**arguments)
         #print "Retrieved {!r} from {!r}".format(snippet, name)
-        if name == False:
-            print('Could not be found')
-        else:
+        if name is not False:
             print "Retrieved {!r} from {!r}".format(name[0], name[1])
+        else:
+            print('Could not be found')
+            sys.exit(1)
 
 if __name__ == "__main__":
     main()
