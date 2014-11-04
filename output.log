@@ -51,3 +51,491 @@ INFO:root:Writing 'spam':'eggs' to 'test.py'
 DEBUG:root:Opening file
 DEBUG:root:Writing snippet to file
 DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'jim' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'spam' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Retrieving 'eggs' from 'snippets.csv'
+DEBUG:root:Opening file
+DEBUG:root:Retrieving snippet from file
+DEBUG:root:Retrieved failed
